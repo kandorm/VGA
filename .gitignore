@@ -1,0 +1,6 @@
+*.*
+!/.gitignore
+!/documents/*.*
+/documents/~*.*
+!*.vhd
+!*.ucf
